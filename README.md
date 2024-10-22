@@ -7,6 +7,7 @@ El análisis se ha realizado mediante Excel, incluyendo limpieza y transformaci�
 
 ## Contenidos
 **Data:** `data/chess-games.xlsx` - Archivo Excel con los datos de las partidas de ajedrez.
+
 **Documentación:** `docs/analisis-chess.md` - Explicación detallada de las operaciones realizadas en Excel.
 
 ## Cómo utilizar este proyecto
