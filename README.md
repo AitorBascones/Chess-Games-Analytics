@@ -3,11 +3,11 @@ Análisis de 20.000 partidas de Ajedrez usando Excel
 
 Este proyecto contiene un análisis de la base de datos "Chess Game Dataset (Lichess)" de Kaggle la cual contiene datos de más de 20.000 partidas de ajedrez obtenidas de Lichess.org
 
-El análisis se ha realizado mediante Excel, incluyendo limpieza y transformación de los datos, análisis estadísticos y visualización de los datos
+El análisis se ha realizado mediante Excel, incluyendo limpieza y transformación de los datos, análisis estadísticos y visualización de los datos.
 
 ## Contenidos
-Archivo de datos
-Documento explicativo del análisis realizado
+**Data:** `data/chess-games.xlsx` - Archivo Excel con los datos de las partidas de ajedrez.
+**Documentación:** `docs/analisis-chess.md` - Explicación detallada de las operaciones realizadas en Excel.
 
 ## Cómo utilizar este proyecto
 
