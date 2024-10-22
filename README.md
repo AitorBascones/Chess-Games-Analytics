@@ -5,7 +5,7 @@ Este proyecto contiene un análisis de la base de datos "Chess Game Dataset (Lic
 
 El análisis se ha realizado mediante Excel, incluyendo limpieza y transformación de los datos, análisis estadísticos y visualización de los datos
 
-##Contenidos
+## Contenidos
 Archivo de datos
 Documento explicativo del análisis realizado
 
