@@ -12,5 +12,5 @@ El análisis se ha realizado mediante Excel, incluyendo limpieza y transformaci�
 
 ## Cómo utilizar este proyecto
 
-1. Descargar el archivo Excel desde la carpeta `data/` para explorar los datos.
+1. Descargar el archivo Excel desde la carpeta `data` para explorar los datos.
 2. Leer el documento para comprender las operaciones y análisis realizados en el archivo Excel y descubrir las conclusiones obtenidas.
